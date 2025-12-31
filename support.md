@@ -1,40 +1,54 @@
 ---
 layout: page
-title: "Support"
+title: "Support & Contact"
 permalink: /support/
 ---
 
-Need help with **This or That**? You’re in the right place.
+Need help with **This or That**? We’re happy to assist.
 
-## Contact options
-Choose the option that works best for you:
+---
 
-1. **Email support (recommended for Discord App Directory)**
-   - **Support Email:** `support@yourdomain.com`  
-   Replace this with your real support email.
+## Contact information
+- **Support Email:** dendrxxcodes@gmail.com
 
-2. **Discord support server**
-   - **Invite link:** `https://discord.gg/YOURINVITE`  
-   Replace with your real invite link (optional but helpful).
+This email can be used for:
+- General support questions
+- Bug reports
+- Privacy or data-related requests
 
-## What to include in your support request
-To help us resolve issues quickly, please include:
-- Your **Server (Guild) ID** (if relevant)
-- The command you tried / what you expected
-- What happened instead (error message or screenshot)
-- Approximate time it occurred and your timezone
+---
 
-## Data removal / privacy requests
-If you’d like stored configuration data associated with your server removed, send a request that includes:
+## Helpful links
+- **Privacy Policy:**  
+  https://dloliver.github.io/this-or-that-docs/privacy
+
+- **Terms of Service:**  
+  https://dloliver.github.io/this-or-that-docs/terms
+
+---
+
+## When contacting support, please include
+To help us respond quickly:
 - Your **Server (Guild) ID**
-- Confirmation you are a server owner/admin
-- The type of removal requested (e.g., “delete all configuration data for my server”)
+- The command or feature you were using
+- What you expected vs. what happened
+- Approximate time of the issue
 
-See the full details in our **[Privacy Policy](/privacy)**.
+---
 
-## Reporting abuse or security issues
-If you believe the Bot is being abused or you’ve found a security issue:
-- Email: `security@yourdomain.com` (or use your support email if you prefer a single inbox)
-- Please include steps to reproduce and any relevant logs/screenshots.
+## Schedule changes
+Server admins can update the scheduled post at any time.  
+When a new schedule is saved, it **replaces the existing schedule**.  
+Only one scheduled post can be active per server.
+
+---
+
+## Data removal requests
+If you want server-specific configuration data removed:
+- Email **dendrxxcodes@gmail.com**
+- Include your **Server (Guild) ID**
+- Confirm you are a server owner or admin
+
+---
 
 _Last updated: December 31, 2025_
