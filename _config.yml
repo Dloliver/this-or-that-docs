@@ -1,0 +1,19 @@
+title: "This or That — Bot Docs"
+description: "Privacy Policy, Terms of Service, and Support for the This or That Discord bot."
+theme: minima
+
+# Make clean URLs like /privacy instead of /privacy.html
+permalink: pretty
+
+# Optional: show downloads off (cleaner for docs)
+show_downloads: false
+
+# Optional: add a simple header nav
+header_pages:
+  - index.md
+  - privacy.md
+  - terms.md
+  - support.md
+
+# (Optional) If you later add a custom domain:
+# url: "https://YOURDOMAIN.com"
