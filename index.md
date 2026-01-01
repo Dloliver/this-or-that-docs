@@ -1,31 +1,31 @@
+# 🆚 This or That
+
+**This or That** is a Discord bot that boosts engagement by posting fun, fast poll-style questions automatically or on demand.
+
+Perfect for:
+- Community servers
+- Streamers & creators
+- Icebreakers
+- Daily engagement routines
+
 ---
-layout: page
-title: "This or That — Documentation"
-permalink: /
+
+## 🚀 Quick Start
+
+1. Invite the bot to your server
+2. Set the posting channel with `/tot channel`
+3. Set a schedule with `/tot schedule` (optional)
+4. Post instantly anytime with `/tot post`
+
 ---
 
-Welcome! This site contains the official public documentation for the **This or That** Discord bot.
+## 📘 Documentation
 
-These pages are provided to help server owners and users understand how the bot works, how data is handled, and how to get support.
-
-## Documentation
-- **Privacy Policy:**  
-  https://dloliver.github.io/this-or-that-docs/privacy
-
-- **Terms of Service:**  
-  https://dloliver.github.io/this-or-that-docs/terms
-
-- **Support / Contact:**  
-  https://dloliver.github.io/this-or-that-docs/support
-
-## About the bot
-**This or That** is a Discord bot designed to spark conversation by posting fun, interactive “this or that” questions in Discord servers.
-
-The bot is currently **free to use**. Optional paid features may be introduced in the future, but core functionality may remain available at no cost.
-
-## For server owners
-- The bot supports **manual question posting** and **one scheduled recurring post per server**.
-- Scheduling can be updated at any time by a server admin and will replace the existing schedule.
-- The bot only requires the permissions necessary to function.
-
-_Last updated: December 31, 2025_
+- [Setup Guide](setup.md)
+- [Commands](commands.md)
+- [Premium Features](premium.md)
+- [Admin Setup Checklist](admin-checklist.md)
+- [FAQ](faq.md)
+- [Privacy Policy](privacy.md)
+- [Terms of Service](terms.md)
+- [Support](support.md)
