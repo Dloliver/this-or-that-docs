@@ -8,7 +8,7 @@ This guide walks you through setting up **This or That** in your Discord server.
 
 Use the official invite link provided by the developer.
 Free Link: https://discord.com/oauth2/authorize?client_id=1455678571749183760
-
+Premium Link: https://discord.com/discovery/applications/1455678571749183760
 > You must have **Manage Server** permission to add bots to a server.
 
 ---
